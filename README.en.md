@@ -3,8 +3,8 @@
 # ATLAS Toolkit
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
-[![GitHub Stars](https://img.shields.io/github/stars/accessinter/atlas-toolkit?style=social)](https://github.com/accessinter/atlas-toolkit)
-[![Contributors](https://img.shields.io/github/contributors/accessinter/atlas-toolkit)](https://github.com/accessinter/atlas-toolkit/graphs/contributors)
+[![GitHub Stars](https://img.shields.io/github/stars/elloumima/atlas-toolkit?style=social)](https://github.com/elloumima/atlas-toolkit)
+[![Contributors](https://img.shields.io/github/contributors/elloumima/atlas-toolkit)](https://github.com/elloumima/atlas-toolkit/graphs/contributors)
 
 > **Open-source patterns, tools and examples for legacy modernization** — COBOL, Delphi, BizTalk to cloud-native stacks.
 
@@ -57,7 +57,7 @@ Complete, working examples — not stubs.
 
 ```bash
 # Clone
-git clone https://github.com/accessinter/atlas-toolkit.git
+git clone https://github.com/elloumima/atlas-toolkit.git
 cd atlas-toolkit
 
 # Install deps for the tools
@@ -74,7 +74,7 @@ Contributions are **welcome and encouraged.** Found a migration pattern that wor
 See [`CONTRIBUTING.md`](CONTRIBUTING.md) for the detailed process.
 
 **Good first issues:**
-- [Issues labeled `good first issue`](https://github.com/accessinter/atlas-toolkit/labels/good%20first%20issue)
+- [Issues labeled `good first issue`](https://github.com/elloumima/atlas-toolkit/labels/good%20first%20issue)
 
 ## Who uses this toolkit
 

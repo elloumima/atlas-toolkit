@@ -69,4 +69,4 @@ Si le projet grandit, création d'un comité steering avec contributeurs externe
 
 - Site : [access-international.dev](https://access-international.dev)
 - Email : `hello@access-international.dev`
-- Issues : [github.com/accessinter/atlas-toolkit/issues](https://github.com/accessinter/atlas-toolkit/issues)
+- Issues : [github.com/elloumima/atlas-toolkit/issues](https://github.com/elloumima/atlas-toolkit/issues)
